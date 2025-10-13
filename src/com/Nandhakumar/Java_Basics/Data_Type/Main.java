@@ -1,6 +1,4 @@
-package com.Nandhakumar.Data_Type;
-
-import java.lang.reflect.Array;
+package com.Nandhakumar.Java_Basics.Data_Type;
 
 public class Main {
     public static void main(String[] args) {
