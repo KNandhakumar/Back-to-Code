@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.User_Input.Questions_Practice;
+package com.Nandhakumar.Java_Basics.Day_1.User_Input.Questions_Practice;
 
 import java.util.Scanner;
 

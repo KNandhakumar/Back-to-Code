@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.Data_Type;
+package com.Nandhakumar.Java_Basics.Day_1.Data_Type;
 
 public class Main {
     public static void main(String[] args) {
