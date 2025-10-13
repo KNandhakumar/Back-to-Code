@@ -1,10 +1,10 @@
-package com.Nandhakumar.Java_Basics.User_Input;
+package com.Nandhakumar.Java_Basics.Day_1.User_Input.Questions_Practice;
 
 import java.util.Scanner;
 
-public class Main {
+public class Question_1 {
     public static void main(String[] args) {
-        // Scanner class used to get users inputs
+        // Get input for variable : Name, Age print it
         Scanner in = new Scanner(System.in);
         String name = in.next();
         int age = in.nextInt();

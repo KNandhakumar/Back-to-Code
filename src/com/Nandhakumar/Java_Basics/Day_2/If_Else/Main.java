@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.If_Else;
+package com.Nandhakumar.Java_Basics.Day_2.If_Else;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.If_Else.Questions_Practice;
+package com.Nandhakumar.Java_Basics.Day_2.If_Else.Questions_Practice;
 
 import java.util.Scanner;
 
