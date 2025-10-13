@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.Compare_Strings;
+package com.Nandhakumar.Java_Basics.Day_2.Compare_Strings;
 
 public class Main {
     public static void main(String[] args) {

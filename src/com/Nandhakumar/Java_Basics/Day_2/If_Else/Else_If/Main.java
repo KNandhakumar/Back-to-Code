@@ -1,4 +1,4 @@
-package com.Nandhakumar.Java_Basics.If_Else.Else_If;
+package com.Nandhakumar.Java_Basics.Day_2.If_Else.Else_If;
 
 import java.util.Scanner;
 
