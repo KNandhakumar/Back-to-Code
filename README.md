@@ -1,85 +1,68 @@
-# 🚀 Back to Code | My Comeback Journey
+# 🚀 Back to Code | My Consistency
 
 ## 👋 Hello, I'm Nandhakumar
-I am a passionate **Java Full Stack Developer (Fresher)** who loves building projects using  
-**Java | Spring Boot | MySQL | Angular | Tailwind CSS | DSA (Java)**.
 
----
+My Data Structures and Algorithms learning journey using Java.
 
-## ⏸ Why I Took a 60-Day Break
-I joined **HVF (Heavy Vehicles Factory) as an apprentice**, and during that time:
-✅ I learned discipline  
-✅ I improved communication & confidence  
-✅ I understood the importance of consistency  
+This repository contains my DSA practice for software developer job placements and coding interviews.
 
-But I was not able to practice coding during these 60 days, and I started to feel my skills getting rusty.
+## Goals
 
----
+* Build strong problem-solving skills
+* Understand common DSA patterns
+* Improve Java coding ability
+* Prepare for coding rounds and technical interviews
+* Maintain consistent daily DSA practice
 
-## 🔥 Why I'm Back
-Now I’m **fully committed** to restarting my coding journey with even **more focus, energy, and clarity**.
+## Topics
 
-💡 I believe:  
-> “A short break doesn’t define me. My comeback will.”
+* [ ] DSA Basics
+* [ ] Time & Space Complexity
+* [ ] Arrays
+* [ ] Strings
+* [ ] Searching
+* [ ] Sorting
+* [ ] Hashing
+* [ ] Two Pointers
+* [ ] Sliding Window
+* [ ] Recursion
+* [ ] Linked List
+* [ ] Stack
+* [ ] Queue
+* [ ] Trees
+* [ ] Heap
+* [ ] Graphs
+* [ ] Greedy
+* [ ] Dynamic Programming
+* [ ] Interview Problems
 
----
+## Progress
 
-## 🎯 My Goals in This Repository
-This repo will track my **daily progress** as I rebuild my skills from scratch:
+| Topic               | Status      |
+| ------------------- | ----------- |
+| DSA Basics          | 🔄 Starting |
+| Arrays              | ⬜           |
+| Strings             | ⬜           |
+| Searching           | ⬜           |
+| Sorting             | ⬜           |
+| Hashing             | ⬜           |
+| Two Pointers        | ⬜           |
+| Sliding Window      | ⬜           |
+| Recursion           | ⬜           |
+| Linked List         | ⬜           |
+| Stack               | ⬜           |
+| Queue               | ⬜           |
+| Trees               | ⬜           |
+| Heap                | ⬜           |
+| Graphs              | ⬜           |
+| Greedy              | ⬜           |
+| Dynamic Programming | ⬜           |
 
-### ✅ Phase 1: Core Java Revision  
-- Variables, loops, methods, OOP, collections
+## Language
 
-### ✅ Phase 2: DSA Practice (GFG + LeetCode)  
-- Arrays, Strings, Recursion, Sorting, Searching, HashMap, LinkedList, Stack, Queue
+Java
 
-### ✅ Phase 3: Projects (Java + Spring Boot + MySQL + Angular)  
-- Real-world CRUD applications
-- API integration
-- Clean UI with Tailwind
+## Purpose
 
-### ✅ Phase 4: Interview Preparation  
-- Technical + HR questions
-- System design basics (if needed)
-- Resume & LinkedIn optimization
+This repository is created as part of my preparation for software developer placements and technical interviews.
 
-### ✅ Phase 5: Job Hunting  
-- Apply daily
-- Use referrals
-- Mock interviews
-
----
-
-## 📅 Daily Commitment
-✅ Minimum 5–6 hours of coding / problem-solving / learning  
-✅ Push progress to GitHub every day  
-✅ Stay consistent for 60 days  
-✅ Share updates, notes, and code
-
----
-
-## 📌 Why This Repo is Public
-I want to:
-✔ Keep myself accountable  
-✔ Show consistency to recruiters  
-✔ Inspire others who took a break  
-✔ Prove that **comebacks are always stronger**
-
----
-
-## ✅ Let's Connect
-**LinkedIn:** https://www.linkedin.com/in/nknandhakumar  
-**Portfolio:** https://www.nandhakumar-k.web.app  
-**Email:** nknandhakumar64@gmail.com
-
----
-
-## 💪 Final Note
-This is not just a repository…  
-**This is my transformation.**
-
-If you're reading this and you also took a break, remember:
-
-> “It’s never too late to restart. Just begin.”
-
-**Let’s grow together. 🚀**
