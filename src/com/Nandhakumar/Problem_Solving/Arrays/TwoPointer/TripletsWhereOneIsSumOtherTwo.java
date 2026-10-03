@@ -29,11 +29,22 @@ public class TripletsWhereOneIsSumOtherTwo {
                 if (sum == arr[k]){
                     count++;
                     // loop not stuck
+                    // move j
+                    int current = arr[j];
                     j++;
+                    while (j < k && arr[j] == current){
+                        j++;
+                    }
                     k++;
                 }
-                else if (sum > arr[k]) k++;
-                else j++;
+                else if (sum < arr[k]) {
+                    int current = arr[j];
+                    j++;
+                    while (j < k && arr[j] == current){
+                        j++;
+                    }
+                }
+                else k++;
                 if (j == k) k++;
             }
         }
