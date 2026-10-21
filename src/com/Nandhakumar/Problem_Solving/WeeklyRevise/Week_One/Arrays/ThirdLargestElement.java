@@ -1,4 +1,4 @@
-package com.Nandhakumar.Problem_Solving.Arrays.WeeklyRevise.WeeklyReviseArray;
+package com.Nandhakumar.Problem_Solving.WeeklyRevise.Week_One.Arrays;
 
 import java.util.Arrays;
 import java.util.Collections;

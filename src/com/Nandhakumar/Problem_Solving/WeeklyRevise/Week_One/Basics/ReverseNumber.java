@@ -1,4 +1,4 @@
-package com.Nandhakumar.Problem_Solving.Arrays.WeeklyRevise;
+package com.Nandhakumar.Problem_Solving.WeeklyRevise.Week_One.Basics;
 
 public class ReverseNumber {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package com.Nandhakumar.Problem_Solving.Arrays.WeeklyRevise.WeeklyReviseArray;
+package com.Nandhakumar.Problem_Solving.WeeklyRevise.Week_One.Arrays;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class FindMinAndMax {
     public static void main(String[] args) {
